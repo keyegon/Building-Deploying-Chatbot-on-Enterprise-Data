@@ -3,7 +3,7 @@ import openai
 import streamlit as st
 
 # Set up your OpenAI API key
-openai.api_key = 'sk-proj-XIPxm8TPimWEwV54XNRWT3BlbkFJ7Ejx70nYJiyI12L6rdLX'
+openai.api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Function to get a response from the OpenAI API
 def get_openai_response(prompt):
